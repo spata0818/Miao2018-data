@@ -1,0 +1,250 @@
+Patient	Cancer Type	Diagnosis Age	Sex	RECIST	os_days	os_censor	pfs_days	pfs_censor	va_response	recist_response	roh_response	drug_type
+AC_PD1-1	Anal		MALE	CR	821.0	1	821	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+AL4602	NSCLC	59.0	MALE	SD	255.0	1	255	1.0	no clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+AU5884	NSCLC	64.0	MALE	PD	54.0	1	54	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+BL3403	NSCLC	73.0	FEMALE	SD	197.0	1	197	0.0	no clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+BLADDER-15330_CCPM_0700629	Bladder	69.0	MALE	PR	106.0	1	54	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+BLADDER-15330_CCPM_0700691	Bladder	57.0	MALE	SD	174.0	0	123	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+BLADDER-15330_CCPM_0700692	Bladder	68.0	MALE	SD	272.0	0	119	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+BLADDER-15330_CCPM_0700694	Bladder	60.0	MALE	PR	287.0	1	146	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+BLCA_immunotherapy_responder-DFCI_11-104_011	Bladder		MALE	CR	1348.0	1	591	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-001	Bladder		MALE	PD	96.0	0	32	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-002	Bladder		MALE	SD	508.0	1	508	1.0	clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-003	Bladder		MALE	PD	74.0	0	29	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-005	Bladder		FEMALE	PR	503.0	1	503	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-006	Bladder		MALE	PR	368.0	0	165	0.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4 + anti-PD-1/PD-L1
+BLCA-007	Bladder		FEMALE	CR	396.0	1	396	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-008	Bladder		FEMALE	PD	105.0	0	105	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-009	Bladder		MALE	PD	142.0	0	123	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-010	Bladder		MALE	PR	490.0	1	490	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-011	Bladder		MALE	PD	169.0	0	63	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-012	Bladder		MALE	PR	504.0	1	479	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-014	Bladder		FEMALE	PD	360.0	1	60	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-015	Bladder		MALE	PD	95.0	0	69	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+BLCA-016	Bladder		FEMALE	PR	744.0	1	744	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+IM_01	Bladder	67.0	MALE	PD	213.0	0	85	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+IM_04	Bladder	55.0	FEMALE	SD	195.0	0	170	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+IM_06	Bladder	58.0	FEMALE	PD	730.0	1	58	0.0	long-term survival	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+IM_07	Bladder	55.0	MALE	PR	496.0	1	496	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+IM_09	Bladder	74.0	FEMALE	PR	663.0	0	441	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+IM_10	Bladder	72.0	MALE	CR	468.0	0	356	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+IM_11	Bladder	68.0	MALE	PR	411.0	0	170	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+IM_12	Bladder	79.0	MALE	PD	143.0	0	85	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+CA9903	NSCLC	57.0	MALE	PR	441.0	1	441	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+CANSEQU01-0100425	NSCLC		FEMALE	PR	735.0	1	207	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+CR0095	Melanoma		MALE	CR	2080.5	1	455		clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+CR04885	Melanoma		FEMALE	CR	766.5	1	595		clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+CR06670	Melanoma		FEMALE	CR	1350.5	0	1176		clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+CR1509	Melanoma		FEMALE	CR	1642.5	1	504		clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+CR22640	Melanoma		MALE	CR	1569.5	1	1512		clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+CR3665	Melanoma		MALE	CR	985.5	1	336		clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+CR6126	Melanoma		FEMALE	CR	707.0	1	707		clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+CR6161	Melanoma		MALE	CR	952.0	0	952		clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+CR9306	Melanoma		MALE	CR	1934.5	1	294		clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+CR9699	Melanoma		MALE	CR	1606.0	1	364		clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+CU9061	NSCLC	57.0	MALE	SD	121.0	1	121	1.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+DFCI_MM_1	Melanoma		FEMALE	CR	600.0	1	548	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+DFCI_MM_2	Melanoma		FEMALE	CR	365.0	1	365	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+DI6359	NSCLC	61.0	FEMALE	PR	298.0	1	298	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+DM123062	NSCLC	50.0	MALE	PD	57.0	1	57	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+FR9547	NSCLC	65.0	FEMALE	PR	127.0	1	127	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+GR4788	NSCLC	59.0	MALE	PD	57.0	1	57	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+HE3202	NSCLC	63.0	FEMALE	PR	447.0	1	447	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+HNSCC-186	HNSCC		MALE	SD	620.0	0	596	0.0	clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+HNSCC-215	HNSCC		MALE	PD	266.0	0	65	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+HNSCC-238	HNSCC		MALE	PR	460.0	1	315	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+HNSCC-239	HNSCC		MALE	SD	402.0	0	138	0.0	clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+HNSCC-243	HNSCC		MALE	PD	113.0	1	55	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4 + anti-PD-1/PD-L1
+HNSCC-258	HNSCC		MALE	SD	378.0	1	378	1.0	clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+HNSCC-266	HNSCC		FEMALE	PD	60.0	0	39	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+HNSCC-287	HNSCC		MALE	PD	71.0	0	56	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4 + anti-PD-1/PD-L1
+HNSCC-296	HNSCC		MALE	SD	46.0	0	43	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+HNSCC-305	HNSCC		MALE	SD	149.0	1	85	0.0	no clinical benefit	stable disease	no clinical benefit	anti-CTLA-4 + anti-PD-1/PD-L1
+HNSCC-306	HNSCC		MALE	PD	169.0	1	84	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4 + anti-PD-1/PD-L1
+HNSCC-323	HNSCC		MALE	PR	140.0	1	140	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+JB112852	NSCLC	60.0	MALE	PD	100.0	1	100	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+KA3947	NSCLC	64.0	FEMALE	SD	246.0	1	246	0.0	no clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+LO3793	NSCLC	62.0	FEMALE	SD	106.0	1	106	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+LO5004	NSCLC	56.0	FEMALE	SD	191.0	1	191	0.0	no clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+LSD0167	Melanoma		MALE	SD	985.5	1	980		clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+LSD2057	Melanoma		FEMALE	SD	1204.5	1	448		clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+LSD3484	Melanoma		MALE	SD	1078.0	1	1078		clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+LSD4744	Melanoma		MALE	SD	766.5	1	560		clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+LSD6819	Melanoma		MALE	SD	1241.0	1	469		clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+SU2C-1026	NSCLC		FEMALE	PR	243.0	0	243	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1022	NSCLC		MALE	SD	136.0	0	129	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1037	NSCLC		MALE	SD	119.0	0	52	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1038	NSCLC		FEMALE	SD	119.0	0	35	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1039	NSCLC		FEMALE	SD	1781.0	1	418	0.0	clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1029	NSCLC		FEMALE	PR	413.0	0	143	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1027	NSCLC		FEMALE	SD	326.0	0	125	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1030	NSCLC		FEMALE	SD	205.0	0	98	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1024	NSCLC		FEMALE	PR	999.0	1	999	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1028	NSCLC		FEMALE	SD	384.0	0	194	0.0	clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1034	NSCLC		MALE	SD	176.0	0	170	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1025	SCLC		FEMALE	PD	39.0	0	39	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4 + anti-PD-1/PD-L1
+SU2C-1021	NSCLC		FEMALE	PD	757.0	1	40	0.0	long-term survival	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1035	NSCLC		MALE	SD	818.0	0	126	0.0	clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+LUNG-2630	NSCLC		MALE	SD	472.0	0	233	0.0	clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+DFCI-11-104	NSCLC	57.0	MALE	CR	660.0	1	660	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+M4945	NSCLC	66.0	MALE	PR	444.0	1	444	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+MA7027	NSCLC	56.0	MALE	PD	54.0	1	54	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+MEL-582186	Melanoma		FEMALE	PR	415.0	1	323	0.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4 + anti-PD-1/PD-L1
+MEL-587761	Melanoma		MALE	SD	584.0	1	186	0.0	clinical benefit	stable disease	clinical benefit	anti-CTLA-4 + anti-PD-1/PD-L1
+MEL-650366	Melanoma		FEMALE	PD	794.0	1	42	0.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4 + anti-PD-1/PD-L1
+MEL-682321	Melanoma		FEMALE	PR	447.0	1	447	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4 + anti-PD-1/PD-L1
+Pat02	Melanoma	42.0	FEMALE	SD	1632.0	1	1254	1.0	clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+Pat03	Melanoma	61.0	FEMALE	PD	100.0	0	76	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat04	Melanoma	71.0	MALE	PR	987.0	1	646	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat06	Melanoma	33.0	MALE	PD	161.0	0	77	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat07	Melanoma	35.0	MALE	SD	1050.0	1	721	1.0	clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+Pat08	Melanoma	73.0	MALE	PD	140.0	0	73	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat100	Melanoma	71.0	MALE	PD	360.0	0	111	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat101	Melanoma	75.0	MALE	PD	288.0	0	77	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat103	Melanoma	70.0	MALE	PR	1048.0	0	969	0.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat104	Melanoma	45.0	FEMALE	SD	237.0	0	237	0.0	no clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+Pat105	Melanoma	41.0	MALE	PR	1047.0	1	690	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat106	Melanoma	43.0	FEMALE	PD	250.0	0	137	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat11	Melanoma	67.0	MALE	PD	790.0	1	126	0.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat110	Melanoma	76.0	MALE	PD	320.0	0	73	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat111	Melanoma	84.0	MALE	PD	618.0	0	467	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat113	Melanoma	68.0	MALE	PR	301.0	0	52	0.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat115	Melanoma	46.0	MALE	PD	145.0	0	74	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat117	Melanoma	74.0	MALE	PR	914.0	1	182	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat118	Melanoma	43.0	FEMALE	PD	313.0	0	120	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat119	Melanoma	61.0	MALE	PD	808.0	1	108	1.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat12	Melanoma	41.0	MALE	PD	290.0	0	84	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat121	Melanoma	47.0	MALE	PD	122.0	0	84	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat123	Melanoma	49.0	FEMALE	SD	853.0	0	544	0.0	clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+Pat124	Melanoma	78.0	MALE	PD	146.0	0	67	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat126	Melanoma	77.0	MALE	PR	641.0	1	187	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat127	Melanoma	24.0	FEMALE	PD	332.0	0	120	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat128	Melanoma	30.0	MALE	PD	113.0	0	81	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat129	Melanoma	18.0	MALE	PD	539.0	1	68	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat13	Melanoma	78.0	MALE	PD	732.0	0	104	0.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat132	Melanoma	81.0	MALE	PR	676.0	1	187	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat133	Melanoma	75.0	MALE	PD	542.0	0	134	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat134	Melanoma	73.0	MALE	PD	302.0	0	72	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat135	Melanoma	29.0	FEMALE	PD	81.0	0	73	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat138	Melanoma	39.0	FEMALE	SD	1478.0	0	581	0.0	clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+Pat139	Melanoma	58.0	MALE	PD	99.0	0	46	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat14	Melanoma	47.0	FEMALE	PD	163.0	0	84	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat140	Melanoma	62.0	MALE	PD	492.0	0	114	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat143	Melanoma	71.0	MALE	PD	153.0	0	90	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat144	Melanoma	65.0	MALE	PR	870.0	0	731	0.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat147	Melanoma	63.0	MALE	PD	224.0	0	120	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat148	Melanoma	36.0	FEMALE	PD	84.0	0	48	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat15	Melanoma	32.0	MALE	PD	50.0	0	31	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat151	Melanoma	68.0	MALE	PD	204.0	0	106	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat157	Melanoma	69.0	FEMALE	X	86.0	0	53	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat159	Melanoma	52.0	MALE	PD	842.0	1	100	1.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat16	Melanoma	68.0	FEMALE	PD	811.0	0	84	0.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat160	Melanoma	79.0	MALE	PD	152.0	0	81	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat162	Melanoma	55.0	FEMALE	PD	211.0	0	78	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat163	Melanoma	54.0	MALE	PD	749.0	1	76	1.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat166	Melanoma	31.0	MALE	X	77.0	0	76	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat167	Melanoma	50.0	MALE	PD	408.0	0	84	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat168	Melanoma	69.0	MALE	X	67.0	0	67	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat17	Melanoma	44.0	MALE	PD	205.0	0	85	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat170	Melanoma	48.0	MALE	PD	108.0	0	97	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat171	Melanoma	66.0	MALE	PD	466.0	0	85	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat174	Melanoma	57.0	FEMALE	PR	688.0	1	134	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat175	Melanoma	66.0	FEMALE	X	90.0	0	90	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat18	Melanoma	55.0	FEMALE	PD	1134.0	1	112	0.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat21	Melanoma	81.0	MALE	SD	676.0	0	558	0.0	clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+Pat24	Melanoma	74.0	FEMALE	PR	971.0	1	658	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat27	Melanoma	61.0	MALE	PD	1379.0	1	139	0.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat32	Melanoma	73.0	MALE	PD	147.0	0	70	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat39	Melanoma	67.0	MALE	CR	1487.0	1	1487	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat41	Melanoma	64.0	MALE	PD	128.0	0	54	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat43	Melanoma	75.0	FEMALE	PD	37.0	0	37	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat45	Melanoma	69.0	MALE	PD	89.0	0	61	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat46	Melanoma	37.0	FEMALE	PD	160.0	0	36	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat47	Melanoma	78.0	MALE	CR	1106.0	1	1106	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat49	Melanoma	36.0	MALE	SD	1034.0	1	163	0.0	clinical benefit	stable disease	no clinical benefit	anti-CTLA-4
+Pat50	Melanoma	77.0	MALE	PD	65.0	0	65	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat52	Melanoma	65.0	MALE	PD	189.0	0	68	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat54	Melanoma	73.0	MALE	PD	208.0	0	81	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat55	Melanoma	71.0	FEMALE	PD	193.0	0	78	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat56	Melanoma	68.0	MALE	PD	235.0	0	96	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat57	Melanoma	69.0	MALE	PD	250.0	0	68	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat58	Melanoma	59.0	FEMALE	PD	652.0	0	99	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat59	Melanoma	36.0	MALE	PD	224.0	0	76	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat60	Melanoma	86.0	MALE	PD	272.0	0	89	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat61	Melanoma	78.0	FEMALE	PD	121.0	0	81	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat62	Melanoma	76.0	MALE	PD	602.0	0	77	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat64	Melanoma	83.0	MALE	PD	106.0	0	69	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat66	Melanoma	44.0	FEMALE	SD	653.0	1	598	0.0	clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+Pat67	Melanoma	40.0	MALE	PD	79.0	0	79	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat71	Melanoma	64.0	MALE	PD	137.0	0	98	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat73	Melanoma	71.0	MALE	PR	442.0	0	408	0.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat74	Melanoma	73.0	MALE	PD	193.0	0	80	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat76	Melanoma	74.0	MALE	PD	139.0	0	70	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat77	Melanoma	22.0	MALE	PR	1029.0	1	241	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat79	Melanoma	69.0	MALE	PR	801.0	0	405	0.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat80	Melanoma	47.0	MALE	SD	724.0	0	182	0.0	clinical benefit	stable disease	no clinical benefit	anti-CTLA-4
+Pat81	Melanoma	54.0	FEMALE	PD	628.0	0	76	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat82	Melanoma	54.0	FEMALE	PD	104.0	0	75	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat83	Melanoma	22.0	MALE	PD	1027.0	1	107	0.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat85	Melanoma	83.0	MALE	PD	458.0	0	83	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat86	Melanoma	54.0	MALE	SD	293.0	0	153	0.0	no clinical benefit	stable disease	no clinical benefit	anti-CTLA-4
+Pat87	Melanoma	47.0	MALE	PD	1093.0	1	151	0.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat90	Melanoma	59.0	MALE	PR	1005.0	1	669	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+Pat98	Melanoma	57.0	FEMALE	PD	140.0	0	77	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+Pat99	Melanoma	36.0	FEMALE	PD	352.0	0	82	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NI9507	NSCLC	41.0	FEMALE	PD	57.0	1	57	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+NR1867	Melanoma		MALE	PD	547.5	1	161	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR2137	Melanoma		MALE	PD	292.0	1	56	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR3549	Melanoma		MALE	PD	182.5	1	112	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR4018	Melanoma		MALE	PD	109.5	1	77	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR4045	Melanoma		MALE	PD	620.5	1	77	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR4083	Melanoma		MALE	PD	84.0	1	84	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR4631	Melanoma		MALE	PD	182.5	1	91	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR4810	Melanoma		FEMALE	PD	146.0	1	84	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR4949	Melanoma		FEMALE	PD	255.5	1	161	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR8815	Melanoma		FEMALE	PD	438.0	1	63	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR9445	Melanoma		MALE	PD	73.0	1	56	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR9449	Melanoma		FEMALE	PD	219.0	1	70	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR9521	Melanoma		MALE	PD	985.5	1	84	1.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR9705	Melanoma		FEMALE	PD	438.0	1	203	1.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-CTLA-4
+NR9765	Melanoma		FEMALE	PD	766.5	1	154	1.0	long-term survival	no clinical benefit	no clinical benefit	anti-CTLA-4
+PR12117	Melanoma		MALE	PR	584.0	0	511	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+PR4035	Melanoma		MALE	PR	1533.0	1	1526	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+PR4046	Melanoma		MALE	PR	770.0	1	770	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+PR4077	Melanoma		MALE	PR	2226.5	1	2212	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+PR4091	Melanoma		FEMALE	PR	2198.0	1	2198	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+PR4092	Melanoma		FEMALE	PR	2226.5	1	2205	1.0	clinical benefit	clinical benefit	clinical benefit	anti-CTLA-4
+R7495	NSCLC	63.0	MALE	PD	42.0	1	42	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+RH090935	NSCLC	78.0	FEMALE	PR	316.0	1	316	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+RI1933	NSCLC	60.0	FEMALE	PR	504.0	1	504	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+RO3338	NSCLC	71.0	MALE	PD	63.0	1	63	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+SA9755	NSCLC	63.0	FEMALE	PR	255.0	1	255	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+SARC-PD1	Sarcoma		FEMALE	CR	730.0	1	210	0.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+SB010944	NSCLC	68.0	MALE	PR	830.0	1	830	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+SC0899	NSCLC	64.0	FEMALE	PR	383.0	1	383	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+SC6470	NSCLC	59.0	MALE	SD	252.0	1	252	0.0	no clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+SD0346	Melanoma		FEMALE	SD	1058.5	0	476	1.0	clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+SD1494	Melanoma		MALE	SD	730.0	1	357	1.0	clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+SD2051	Melanoma		FEMALE	SD	292.0	0	112	1.0	no clinical benefit	stable disease	no clinical benefit	anti-CTLA-4
+SD2056	Melanoma		FEMALE	SD	1456.0	1	1456	1.0	clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+SD5038	Melanoma		MALE	SD	438.0	0	168	1.0	clinical benefit	stable disease	no clinical benefit	anti-CTLA-4
+SD5118	Melanoma		FEMALE	SD	985.5	0	168	1.0	clinical benefit	stable disease	no clinical benefit	anti-CTLA-4
+SD5934	Melanoma		MALE	SD	584.0	0	98	1.0	clinical benefit	stable disease	no clinical benefit	anti-CTLA-4
+SD6336	Melanoma		MALE	SD	2527.0	1	2527	1.0	clinical benefit	stable disease	clinical benefit	anti-CTLA-4
+SD6494	Melanoma		FEMALE	SD	255.5	0	91	1.0	no clinical benefit	stable disease	no clinical benefit	anti-CTLA-4
+SD7357	Melanoma		FEMALE	SD	730.0	0	147	1.0	clinical benefit	stable disease	no clinical benefit	anti-CTLA-4
+SR070761	NSCLC	51.0	FEMALE	PD	103.0	1	103	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1002	NSCLC	50.0	FEMALE	PD	485.0	1	58	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1003	NSCLC	77.0	FEMALE	PD	132.0	0	56	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1004	NSCLC	61.0	MALE	SD	363.0	0	111	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1005	NSCLC	72.0	FEMALE	PD	339.0	0	34	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1006	NSCLC	74.0	FEMALE	PD	182.0	1	182	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1010	NSCLC	65.0	MALE	SD	302.0	0	119	0.0	no clinical benefit	stable disease	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1011	NSCLC	76.0	MALE	PD	177.0	0	56	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1013	NSCLC	61.0	MALE	PD	32.0	0	32	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1016	NSCLC	72.0	FEMALE	SD	449.0	1	230	0.0	clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1017	NSCLC	54.0	FEMALE	PR	433.0	1	433	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1018	NSCLC	52.0	FEMALE	PD	96.0	0	35	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+SU2C-1020	NSCLC	43.0	FEMALE	PR	897.0	1	897	1.0	clinical benefit	clinical benefit	clinical benefit	anti-PD-1/anti-PD-L1
+WA7899	NSCLC	49.0	MALE	PD	57.0	1	57	0.0	no clinical benefit	no clinical benefit	no clinical benefit	anti-PD-1/anti-PD-L1
+Y2087	NSCLC	68.0	FEMALE	SD	252.0	1	252	0.0	no clinical benefit	stable disease	clinical benefit	anti-PD-1/anti-PD-L1
